@@ -122,7 +122,7 @@ extension GoalVC {
         let fetchRequest = NSFetchRequest<Goal>(entityName: "Goal")
         do {
             goals = try managedContext.fetch(fetchRequest)
-            print(" Successfully Fetched")
+            print(" Successfully Fetched ")
             completion(true)
         } catch {
             debugPrint("Couldn't Fetched \(error.localizedDescription)")
