@@ -278,7 +278,7 @@
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LeG-LR-mij">
                                                 <rect key="frame" x="197" y="0.0" width="187" height="50"/>
-                                                <color key="backgroundColor" red="0.40990195137834184" green="0.70195985119936299" blue="0.43150931629262762" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <color key="backgroundColor" red="0.40990195137834184" green="0.70195985119936299" blue="0.36269510396386057" alpha="0.8965913955479452" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="50" id="8hV-RX-3jg"/>
                                                 </constraints>
