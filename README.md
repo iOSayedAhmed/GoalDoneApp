@@ -4,17 +4,13 @@
    Simple iOS App Aplply you to make your TODO list or goals want achieve it and you can save information locally on your device 
 
 ---
-
-# TODO: 
- --- 
+# TODO:  
  - [x]  Create Application Design.
  - [x]  Setup Core Data to save information.
  - [X]  Showing goals and their detail  
- 
 ---
 
 # Technologies: 
- --- 
  - [x]  UIKit.
  - [x]  MVC.
  - [X]  Core Data.  
